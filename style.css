@@ -1,0 +1,18 @@
+/* custom style sheet */
+
+.landing{
+    text-align: center;
+    background-color: #17043a;
+    height: 600px;
+}
+
+.bg-text{
+    position: relative;
+    top:30%;
+    color: #fff;
+}
+
+.nav{
+    height: 40px;
+    background-color: #17043a;
+}
